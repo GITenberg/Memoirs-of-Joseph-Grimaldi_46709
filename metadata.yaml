@@ -1,0 +1,41 @@
+_repo: Memoirs-of-Joseph-Grimaldi_46709
+contributor:
+  creator:
+    editor:
+      agent_name: Dickens, Charles
+      alias: Boz
+      birthdate: 1812
+      deathdate: 1870
+      gutenberg_agent_id: '37'
+      url: http://www.gutenberg.org/2009/agents/37
+      wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  illustrator:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+creator:
+  author:
+    agent_name: Grimaldi, Joseph
+    birthdate: 1778
+    deathdate: 1837
+    gutenberg_agent_id: '43915'
+    url: http://www.gutenberg.org/2009/agents/43915
+description: "Memoirs of Joseph Grimaldi is the autobiography of the nineteenth-century\
+  \ clown Joseph Grimaldi.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2014-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46709'
+  wikidata: Q6815266
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Memoirs of Joseph Grimaldi
+url: http://www.gutenberg.org/ebooks/46709
+wikipedia:
+- https://en.wikipedia.org/wiki/Memoirs_of_Joseph_Grimaldi
