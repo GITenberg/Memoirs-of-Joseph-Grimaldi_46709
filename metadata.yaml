@@ -1,4 +1,5 @@
 _repo: Memoirs-of-Joseph-Grimaldi_46709
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -17,6 +18,9 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 46709-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimaldi, Joseph
@@ -26,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43915
 description: "Memoirs of Joseph Grimaldi is the autobiography of the nineteenth-century\
   \ clown Joseph Grimaldi.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46709#Memoirs-of-Joseph-Grimaldi
 gutenberg_issued: '2014-08-28'
 gutenberg_type: Text
 identifiers:
